@@ -23,7 +23,7 @@
     "ext-curl": "*",
     "psr/log": "^1.0",
     "fig/http-message-util":"*",
-    "monolog/monolog": "^1.*",
+    "monolog/monolog": "^1.0",
     "guzzlehttp/guzzle": "^7.0",
     "moneyphp/money": "^3.0",
     "giggsey/libphonenumber-for-php": "^8.10",
